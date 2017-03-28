@@ -1,0 +1,9 @@
+﻿  Program_2.cpp
+e:\msi\opengl\zajecie_3\program_2\program_2.cpp(467): warning C4305: '+=': truncation from 'double' to 'GLfloat'
+e:\msi\opengl\zajecie_3\program_2\program_2.cpp(472): warning C4305: '-=': truncation from 'double' to 'GLfloat'
+e:\msi\opengl\zajecie_3\program_2\program_2.cpp(524): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+e:\msi\opengl\zajecie_3\program_2\program_2.cpp(526): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+e:\msi\opengl\zajecie_3\program_2\program_2.cpp(528): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+e:\msi\opengl\zajecie_3\program_2\program_2.cpp(530): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+  Program_2.vcxproj -> E:\MSI\OPENGL\Zajecie_3\Program_3\Debug\Program_2.exe
+  Program_2.vcxproj -> E:\MSI\OPENGL\Zajecie_3\Program_3\Debug\Program_2.pdb (Full PDB)
